@@ -1,0 +1,30 @@
+# Skimdit site configuration. Every key is documented in
+# https://github.com/GTKottman/skimdit/blob/main/docs/CONFIG.md
+
+[site]
+title = "Deeper Thinking"
+url = "https://deeperthinking.xyz"
+language = "en"
+timezone = "America/Chicago"
+
+[author]
+name = "Gerrod Kottman"
+
+[robots]
+ai = "allow"
+
+[server]
+push = true
+trust_proxy = true
+
+[comments]
+enabled = true
+
+[stats]
+enabled = true
+
+[newsletter]
+enabled = false
+
+[fediverse]
+enabled = false
