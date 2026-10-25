@@ -24,7 +24,14 @@ enabled = true
 enabled = true
 
 [newsletter]
-enabled = false
+enabled = true
+from = "Deeper Thinking <letters@deeperthinking.xyz>"
+smtp_host = "mail.kottmanconsulting.com"
+smtp_port = 465
+smtp_user = "letters@deeperthinking.xyz"
+smtp_security = "tls"
+bounce_imap = "mail.kottmanconsulting.com:993"
+bounce_user = "letters@deeperthinking.xyz"
 
 [fediverse]
 enabled = false
