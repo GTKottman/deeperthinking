@@ -1,0 +1,3 @@
+# Every URL this site has published, with the file it came from.
+# Skimdit keeps this file; commit it. A URL listed here may never become a dead link.
+/posts/welcome-to-earth/	content/posts/welcome-to-earth/index.md
